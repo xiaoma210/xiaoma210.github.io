@@ -4,33 +4,6 @@
   
     
     <entry>
-      <title>Python中的数据类型转换</title>
-      <link href="/2025/05/19/2025-05-19-type-conversion/"/>
-      <url>/2025/05/19/2025-05-19-type-conversion/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/img/%E6%96%87%E7%AB%A0%E5%9B%BE1.jpg" alt="Python数据类型转换"><br>在 Python 中，不同的数据类型之间可以在特定场景下进行转换，例如字符串转数字、数字转字符串等。</p><h2 id="一、常见的转换语句"><a href="#一、常见的转换语句" class="headerlink" title="一、常见的转换语句"></a>一、常见的转换语句</h2><ol><li><code>int(x)</code>：将 <code>x</code> 转换成一个整数</li><li><code>float(x)</code>：将 <code>x</code> 转换成一个浮点数</li><li><code>str(x)</code>：将对象 <code>x</code> 转换为字符串</li></ol><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><ul><li>任意类型都可以转换为字符串；</li><li>将字符串转换成数字时，<strong>必须保证字符串内容是数字</strong>，文字不可以；</li><li>浮点数转整数会丢失精度（小数部分被舍弃）。</li></ul><h2 id="二、示例程序"><a href="#二、示例程序" class="headerlink" title="二、示例程序"></a>二、示例程序</h2><pre><code class="language-python"># 将数字类型转换成字符串num_str = str(11)print(type(num_str), num_str)# 将字符串转换成整数num_int = int(&quot;12&quot;)print(type(num_int), num_int)# 将字符串转换成浮点数num_float = float(&quot;14&quot;)print(type(num_float), num_float)</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> Python教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Python基础 </tag>
-            
-            <tag> 数据类型 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>你的名字剧情解析</title>
       <link href="/2025/05/19/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E7%94%B5%E5%BD%B1%E8%A7%A3%E6%9E%90/"/>
       <url>/2025/05/19/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E7%94%B5%E5%BD%B1%E8%A7%A3%E6%9E%90/</url>
@@ -50,6 +23,33 @@
             <tag> 动漫电影 </tag>
             
             <tag> 新海诚作品 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python中的数据类型转换</title>
+      <link href="/2025/05/19/2025-05-19-type-conversion/"/>
+      <url>/2025/05/19/2025-05-19-type-conversion/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/img/%E6%96%87%E7%AB%A0%E5%9B%BE1.jpg" alt="Python数据类型转换"><br>在 Python 中，不同的数据类型之间可以在特定场景下进行转换，例如字符串转数字、数字转字符串等。</p><h2 id="一、常见的转换语句"><a href="#一、常见的转换语句" class="headerlink" title="一、常见的转换语句"></a>一、常见的转换语句</h2><ol><li><code>int(x)</code>：将 <code>x</code> 转换成一个整数</li><li><code>float(x)</code>：将 <code>x</code> 转换成一个浮点数</li><li><code>str(x)</code>：将对象 <code>x</code> 转换为字符串</li></ol><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><ul><li>任意类型都可以转换为字符串；</li><li>将字符串转换成数字时，<strong>必须保证字符串内容是数字</strong>，文字不可以；</li><li>浮点数转整数会丢失精度（小数部分被舍弃）。</li></ul><h2 id="二、示例程序"><a href="#二、示例程序" class="headerlink" title="二、示例程序"></a>二、示例程序</h2><pre><code class="language-python"># 将数字类型转换成字符串num_str = str(11)print(type(num_str), num_str)# 将字符串转换成整数num_int = int(&quot;12&quot;)print(type(num_int), num_int)# 将字符串转换成浮点数num_float = float(&quot;14&quot;)print(type(num_float), num_float)</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python基础 </tag>
+            
+            <tag> 数据类型 </tag>
             
         </tags>
       
