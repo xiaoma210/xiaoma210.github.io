@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Python中的数据类型转换</title>
+      <link href="/2025/05/19/2025-05-19-type-conversion/"/>
+      <url>/2025/05/19/2025-05-19-type-conversion/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/img/%E6%96%87%E7%AB%A0%E5%9B%BE1.jpg" alt="Python数据类型转换"><br>在 Python 中，不同的数据类型之间可以在特定场景下进行转换，例如字符串转数字、数字转字符串等。</p><h2 id="一、常见的转换语句"><a href="#一、常见的转换语句" class="headerlink" title="一、常见的转换语句"></a>一、常见的转换语句</h2><ol><li><code>int(x)</code>：将 <code>x</code> 转换成一个整数</li><li><code>float(x)</code>：将 <code>x</code> 转换成一个浮点数</li><li><code>str(x)</code>：将对象 <code>x</code> 转换为字符串</li></ol><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><ul><li>任意类型都可以转换为字符串；</li><li>将字符串转换成数字时，<strong>必须保证字符串内容是数字</strong>，文字不可以；</li><li>浮点数转整数会丢失精度（小数部分被舍弃）。</li></ul><h2 id="二、示例程序"><a href="#二、示例程序" class="headerlink" title="二、示例程序"></a>二、示例程序</h2><pre><code class="language-python"># 将数字类型转换成字符串num_str = str(11)print(type(num_str), num_str)# 将字符串转换成整数num_int = int(&quot;12&quot;)print(type(num_int), num_int)# 将字符串转换成浮点数num_float = float(&quot;14&quot;)print(type(num_float), num_float)</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python基础 </tag>
+            
+            <tag> 数据类型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>你的名字剧情解析</title>
+      <link href="/2025/05/19/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E7%94%B5%E5%BD%B1%E8%A7%A3%E6%9E%90/"/>
+      <url>/2025/05/19/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E7%94%B5%E5%BD%B1%E8%A7%A3%E6%9E%90/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/img/haibao.jpg" alt="你的名字电影海报"><br>《你的名字。》是新海诚执导的奇幻爱情动画电影，讲述了男女主角跨越时空的奇妙相遇与命运交织。以下从剧情脉络、角色设定和主题内核三方面展开解析：</p><h2 id="一、时空交错的剧情脉络"><a href="#一、时空交错的剧情脉络" class="headerlink" title="一、时空交错的剧情脉络"></a>一、时空交错的剧情脉络</h2><h3 id="（一）身体互换的开端"><a href="#（一）身体互换的开端" class="headerlink" title="（一）身体互换的开端"></a>（一）身体互换的开端</h3><p>糸守镇少女<strong>三叶</strong>（宫水三叶）生活在千年彗星坠落形成的湖泊旁，因家族神社职责被迫制作口嚼酒，内心向往东京的都市生活。某天她梦见自己变成东京男高中生<strong>泷</strong>（立花泷），拥有男性身体并体验繁华都市生活。不久后，两人发现并非梦境，而是真实的<strong>身体互换</strong>，且无固定规律。<br><strong>关键情节</strong>：</p><ul><li>以日记和行程表约定规则，避免身份暴露；</li><li>互换中渐生情愫，伪泷（三叶灵魂）帮泷约到打工前辈奥寺美纪，却在约会当日互换停止，陷入失联。</li></ul><h3 id="（二）跨越三年的时空谜题"><a href="#（二）跨越三年的时空谜题" class="headerlink" title="（二）跨越三年的时空谜题"></a>（二）跨越三年的时空谜题</h3><p>数月后，泷试图联系三叶未果，凭借记忆前往糸守镇，惊悉小镇<strong>三年前已被彗星陨石摧毁</strong>，全镇遇难（仅因演习提前转移部分村民）。此时他意识到，与自己互换的三叶存在于<strong>三年前的时空</strong>。<br><strong>拯救行动</strong>：</p><ol><li><strong>时空链接</strong>：泷找到山中神社，喝下三叶制作的口嚼酒，借助灵体互换回到三年前；</li><li><strong>小镇危机</strong>：伪三叶（泷灵魂）说服好友早耶香、克彦协助，计划炸掉发电站并通过广播引导村民转移至安全区；</li><li><strong>父女矛盾</strong>：试图说服三叶父亲（镇长）启动应急方案未果，因身份被识破而失败。</li></ol><h3 id="（三）黄昏之时的命运交织"><a href="#（三）黄昏之时的命运交织" class="headerlink" title="（三）黄昏之时的命运交织"></a>（三）黄昏之时的命运交织</h3><p>在<strong>黄昏之时</strong>（昼夜交替、灵气最强的时刻），泷与三叶以灵体形态相遇，试图写下彼此名字避免遗忘。然而时间线复原后，泷手上只留下三叶写的“喜欢你”，两人记忆逐渐模糊，但情感羁绊未消。<br><strong>核心场景</strong>：</p><ul><li>三叶曾前往东京寻找泷，将红丝带赠予三年前的他，成为跨越时空的信物；</li><li>五年后，已毕业的泷与三叶在东京街头重逢，虽忘记姓名，却因红丝带和似曾相识的感觉相认，以“你的名字是？”收尾。</li></ul><h2 id="二、角色与象征意义"><a href="#二、角色与象征意义" class="headerlink" title="二、角色与象征意义"></a>二、角色与象征意义</h2><table><thead><tr><th>角色</th><th>人物设定</th><th>象征意义</th></tr></thead><tbody><tr><td><strong>三叶</strong></td><td>小镇巫女，厌倦传统生活，渴望改变，勇敢坚韧，以口嚼酒和红丝带连接时空。</td><td>代表对宿命的反抗与纯真情感的坚守。</td></tr><tr><td><strong>泷</strong></td><td>东京高中生，热血直率，凭借执着跨越时空拯救爱人与小镇。</td><td>象征现代青年的行动力与对命运的不屈。</td></tr><tr><td><strong>红丝带</strong></td><td>三叶的发带，被泷保存三年，成为两人记忆与情感的物理载体。</td><td>时空羁绊的具象化，暗示“丝线”（糸）在日语中与“缘分”的关联。</td></tr><tr><td><strong>彗星</strong></td><td>引发灾难的天体，既是毁灭的象征，也是推动两人相遇、改变命运的关键要素。</td><td>命运的无常与机遇的隐喻：灾难带来分离，却也催生跨越时空的救赎。</td></tr></tbody></table><h2 id="三、主题内核：爱与时空的哲学思考"><a href="#三、主题内核：爱与时空的哲学思考" class="headerlink" title="三、主题内核：爱与时空的哲学思考"></a>三、主题内核：爱与时空的哲学思考</h2><h3 id="（一）记忆与情感的博弈"><a href="#（一）记忆与情感的博弈" class="headerlink" title="（一）记忆与情感的博弈"></a>（一）记忆与情感的博弈</h3><p>影片探讨了<strong>记忆消退而情感永存</strong>的命题：泷与三叶忘记彼此姓名，却始终怀揣“寻找重要之人”的直觉。正如三叶手心的“喜欢你”，超越文字成为潜意识的情感烙印，印证了“真爱无需铭记细节，只需心有灵犀”。</p><h3 id="（二）个体与群体的责任"><a href="#（二）个体与群体的责任" class="headerlink" title="（二）个体与群体的责任"></a>（二）个体与群体的责任</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 影视解析 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 动漫电影 </tag>
+            
+            <tag> 新海诚作品 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2025/05/19/%E6%96%87%E7%AB%A0/"/>
+      <url>/2025/05/19/%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2025/05/19/hello-world/"/>
+      <url>/2025/05/19/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
